@@ -6,3 +6,6 @@ print(a)
 print(b)
 print(c)
 
+print("El resultado es",a)
+print("El resultado es",a+b)
+
