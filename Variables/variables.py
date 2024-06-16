@@ -9,3 +9,12 @@ print(c)
 print("El resultado es",a)
 print("El resultado es",a+b)
 
+#Trabajar con operadores relacionales
+
+print(a>b)
+print(a<b)
+print(a==b)
+print(a>=b)
+print(a<=b)
+print(a!=b)
+
